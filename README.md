@@ -1,2 +1,1 @@
-# hello-world
-My first project
+# My journey of study !
